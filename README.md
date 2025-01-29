@@ -5,13 +5,8 @@
 
 ###
 
- <p align="left"> 🔭 I’m a passionate web developer ready to take on new challenges.<br>  📚 I'm currently learning <b> React</b> , <b>Spring.</b>
+ <p align="left">🔭 I’m a passionate web developer ready to take on new challenges.<br>  
 
-###
-
----
-
-<h3 align="left">👩‍💻 About Me</h3>
 <ul>
   <li>I'm a Recent gratuate with a Bachelor of Science in Computer Science, seeking a position as a web developer.</li>
   <li>I possess strong problem-solving abilities and excellent communication skills, for collaborating effectively within a team and delivering projects.</li>
