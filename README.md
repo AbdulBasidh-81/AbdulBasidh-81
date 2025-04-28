@@ -43,7 +43,7 @@
 
 <h3 align="left">📫 Connect with Me</h3>
 <p align="left">
-<b>Check out my </b>  <a href="your-portfolio-link" target="_blank">Portfolio</a> <br>
+<b>Check out my </b>  <a href="[your-portfolio-link](https://abdul-basidh-portfolio.netlify.app/)" target="_blank">Portfolio</a> <br>
 <b>Let’s connect through </b> <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a> <br>
 <b>Reach out via Email </b> <a href="mailto:abdulbasidh81@gmail.com">abdulbasidh81@gmail.com</a> 📧
 </p>
